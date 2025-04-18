@@ -11,8 +11,8 @@ Introducing the **Windows Speed Booster Script** – a powerful `.bat` file desi
 I created this tool on a **low-end PC that crashes often**, just to help others speed up their systems too.  
 If you found this useful and want to support me in getting a **better laptop**, consider buying me a coffee or donating via UPI:
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/your-bmc-link)  
-[Support via UPI](https://upi://pay?pa=your-upi-id@bank&pn=YourName)
+[Buy Me a Coffee](https://buymeacoffee.com/harishrajro)  
+[Support via UPI](https://drive.google.com/file/d/153n7zxHg-srjOmtZEUESpnN_FlQbBKko/view?usp=sharing)
 
 Your support helps me keep building cool, free tools like this one. Thank you ❤️
 
@@ -25,7 +25,7 @@ Your support helps me keep building cool, free tools like this one. Thank you �
 - ✅ Speeds up **boot and shutdown times**  
 - ✅ Reduces background lag  
 - ✅ Lightweight and super fast – just one click!
-- ✅ **Option to schedule** the script for automatic daily, weekly, monthly, or startup execution
+- **(IN NEXT MAJOR UPDATE)** **-** **OPTION TO SCHEDULE** the script for automatic daily, weekly, monthly, or startup execution 
 
 ---
 
@@ -43,14 +43,7 @@ Your support helps me keep building cool, free tools like this one. Thank you �
 2. **Right-click** it and choose **"Run as Administrator"**.
    - ⚠️ **Important:** Always **save your work** and close important applications before running the script. This script will clean system cache and might close background processes.
 3. Wait a few seconds while it does its job.
-4. After cleanup, you will be asked if you want to **schedule** this task to run automatically in the future.
-   - **Options**:
-     - **At Startup**: Runs the script every time the PC starts.
-     - **Daily**: Runs the script at a set time each day.
-     - **Weekly**: Runs the script on a set day and time each week.
-     - **Monthly**: Runs the script on a set day and time each month.
-
-5. Enjoy a **faster, cleaner PC!**
+4. Enjoy a **faster, cleaner PC!**
 
 ---
 
