@@ -68,13 +68,6 @@ I was tired of laggy performance and complicated optimizers full of ads and bloa
 
 ---
 
-## 📷 Coming Soon
-
-- [ ] Screenshots of before/after performance  
-- [ ] GIF demo of script in action  
-- [ ] Auto-restore option for safer cleanup  
-
----
 
 > Made by Harish  
 > Let's speed up the world, one PC at a time 💪
