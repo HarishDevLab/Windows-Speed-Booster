@@ -5,6 +5,7 @@ Tired of your PC running slow? Want a **one-click solution** to clean up junk an
 Introducing the **Windows Speed Booster Script** – a powerful `.bat` file designed for both **low-end** and **high-end** PCs. This script will instantly clean temporary files, free up memory, and supercharge your system performance without installing anything!
 
 ---
+
 ## Support This Project
 
 I created this tool on a **low-end PC that crashes often**, just to help others speed up their systems too.  
@@ -24,6 +25,7 @@ Your support helps me keep building cool, free tools like this one. Thank you �
 - ✅ Speeds up **boot and shutdown times**  
 - ✅ Reduces background lag  
 - ✅ Lightweight and super fast – just one click!
+- ✅ **Option to schedule** the script for automatic daily, weekly, monthly, or startup execution
 
 ---
 
@@ -37,20 +39,26 @@ Your support helps me keep building cool, free tools like this one. Thank you �
 
 ## 📦 How to Use
 
-1. **Download** the `.bat` file from this repo
-2. **Right-click** it and choose **"Run as Administrator"**
-3. Wait a few seconds while it does its job
-4. Enjoy a **faster, cleaner PC!**
+1. **Download** the `.bat` file from this repo.
+2. **Right-click** it and choose **"Run as Administrator"**.
+   - ⚠️ **Important:** Always **save your work** and close important applications before running the script. This script will clean system cache and might close background processes.
+3. Wait a few seconds while it does its job.
+4. After cleanup, you will be asked if you want to **schedule** this task to run automatically in the future.
+   - **Options**:
+     - **At Startup**: Runs the script every time the PC starts.
+     - **Daily**: Runs the script at a set time each day.
+     - **Weekly**: Runs the script on a set day and time each week.
+     - **Monthly**: Runs the script on a set day and time each month.
 
-> ⚠️ **Important:** Save your work before running the script, as it may close background tasks or delete temporary files.
+5. Enjoy a **faster, cleaner PC!**
 
 ---
 
 ## 🔒 Safety First
 
-- 🔍 100% Open-source — you can view and edit the code  
-- 🛡️ No installations, no background services  
-- 🔐 No data is shared or sent anywhere
+- 🔍 **100% Open-source** — you can view and edit the code  
+- 🛡️ **No installations**, no background services  
+- 🔐 **No data is shared** or sent anywhere
 
 ---
 
@@ -67,7 +75,6 @@ I was tired of laggy performance and complicated optimizers full of ads and bloa
 - Share it with friends who could use a PC boost!
 
 ---
-
 
 > Made by Harish  
 > Let's speed up the world, one PC at a time 💪
