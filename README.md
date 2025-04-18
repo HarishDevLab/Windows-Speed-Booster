@@ -11,7 +11,7 @@ I created this tool on a **low-end PC that crashes often**, just to help others 
 If you found this useful and want to support me in getting a **better laptop**, consider buying me a coffee or donating via UPI:
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/your-bmc-link)  
-[Support via UPI](upi://pay?pa=your-upi-id@bank&pn=YourName)
+[Support via UPI](https://upi://pay?pa=your-upi-id@bank&pn=YourName)
 
 Your support helps me keep building cool, free tools like this one. Thank you ❤️
 
