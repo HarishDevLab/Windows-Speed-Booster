@@ -29,7 +29,7 @@ Your support helps me keep building cool, free tools like this one. Thank you �
 
 ---
 
-## 💡 Who's It For?
+## 💡 Who's It For ?
 
 - 💻 **Low-end PC users** wanting smoother performance  
 - 🖥️ **High-end users** looking to keep their system optimized  
