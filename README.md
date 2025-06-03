@@ -11,7 +11,7 @@ Introducing the **Windows Speed Booster Script** – a powerful `.bat` file desi
 I created this tool on a **low-end PC that crashes often**, just to help others speed up their systems too.  
 If you found this useful and want to support me in getting a **better laptop**, consider buying me a coffee or donating via UPI:
 
-[Buy Me a Coffee](https://buymeacoffee.com/harishrajro)  
+[Buy Me a Coffee](https://buymeacoffee.com/harishdevlab)  
 [Support via UPI](https://drive.google.com/file/d/153n7zxHg-srjOmtZEUESpnN_FlQbBKko/view?usp=sharing)
 
 Your support helps me keep building cool, free tools like this one. Thank you ❤️
